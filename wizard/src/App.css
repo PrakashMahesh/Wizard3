@@ -1,0 +1,90 @@
+.wizard{
+  position: relative;
+  float: left;
+  width: 20%;
+  height: 100%;
+}
+.wizardbody{
+  
+ position: relative;
+ float: left;
+ top:100px;
+ left: 20%;
+ 
+width: 32%;
+height: 385px;
+background: transparent linear-gradient(180deg, #4F39B5 0%, #A410BD 100%) 0% 0% no-repeat padding-box;
+box-shadow: 0px 15px 32px #00000005;
+border-radius: 62px;
+opacity: 1;
+}
+.contentbody{
+  position: relative;
+  float: left;
+  width: 80%;
+
+}
+.car{
+  position: relative;
+  top: 25px;
+left: 18%;
+width: 65px;
+height: 65px;
+margin-bottom: 25px;
+border-radius: 50%;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.carimage{
+  position: absolute;
+  top:30%;
+left: 30%;
+width: 28px;
+height: 22px;
+background: transparent  0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.cardone{
+  position: relative;
+  top: 25px;
+left: 18%;
+width: 65px;
+height: 65px;
+margin-bottom: 25px;
+border-radius: 50%;
+background: #8B54C6 0% 0% no-repeat padding-box;
+
+}
+
+.tickmark{
+ 
+ position: absolute;
+  top: 0%;
+left: 65%;
+width: 24px;
+height: 24px;
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.tickmarknone{
+  display: none;
+  position: absolute;
+  top: 0%;
+left: 65%;
+width: 24px;
+height: 24px;
+background: transparent 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.line{
+  position: relative;
+  top: 7%;
+left: 48%;
+width: 4px;
+height: 25px;
+background-color: #FFFFFF;
+opacity: 1;
+}
+.bg{
+  background: #8B54C6 0% 0% no-repeat padding-box;
+}
